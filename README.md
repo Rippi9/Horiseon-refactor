@@ -21,4 +21,4 @@ Our task was to refactor existing code to meet a certian set of standards
 ## Usage
 
 This was the mock up 
-https://github.com/Rippi9/Horiseon-refactor/blob/main/Screenshot/Screenshot%202022-12-07%20204522.png?raw=true 
+![Refactor Webpage](https://github.com/Rippi9/Horiseon-refactor/blob/main/Screenshot/Screenshot%202022-12-07%20204522.png) 
