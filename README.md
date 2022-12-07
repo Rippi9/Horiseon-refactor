@@ -1,73 +1,23 @@
-# Prework Study Guide Webpage
+# 01 HTML, CSS, and Git: Code Refactor
 
 ## Description
 
-This Prework study guide was created students who were going through the prework. It contains notes on HTML, CSS, Git, and JavaScript.
+Our task was to refactor existing code to meet a certian set of standards
 
+## Acceptance Criteria
 
-## Installation
-
-N/A
+* GIVEN a webpage meets accessibility standards
+* WHEN I view the source code
+* THEN I find semantic HTML elements
+* WHEN I view the structure of the HTML elements
+* THEN I find that the elements follow a logical structure independent of styling and positioning
+* WHEN I view the icon and image elements
+* THEN I find accessible alt attributes
+* WHEN I view the heading attributes
+* THEN they fall in sequential order
+* WHEN I view the title element
+* THEN I find a concise, descriptive title
 
 ## Usage
 
 To use this Prework Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
-
-Phase 1
-
-Command-line fundamentals
-
-HTML and CSS
-
-Git and GitHub
-
-JavaScript
-
-Third-party APIs (such as jQuery and Bootstrap)
-
-Server-side APIs, AJAX, and JSON
-
-Phase 2
-
-Node.js
-
-Object-oriented programming (OOP)
-
-Express.js
-
-Relational databases, such as MySQL
-
-Object-relational mapping (ORM) using Sequelize
-
-Model-View-Controller (MVC) framework
-
-Handlebars.js
-
-Unit testing
-
-Agile software development methodology
-
-Heroku
-
-Phase 3
-
-Computer science fundamentals
-
-NoSQL databases, such as MongoDB
-
-Progressive web apps (PWAs)
-
-React
-
-MERN stack (MongoDB, Express.js, React, Node.js)
-
-How to create a professional project portfolio
-
-
-## Credits
-
-N/A
-
-## License
-
-Please refer to the LICENSE in the repo.
