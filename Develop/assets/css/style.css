@@ -89,7 +89,7 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/* Got rid of benefit / brand & cost and moved them into .benefits */
+/* removed benefit / brand & cost and moved them into .benefits */
 /* .benefit-lead { 
     margin-bottom: 32px;
     color: #ffffff;
@@ -147,7 +147,7 @@ h3 {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* combined .online-reputation-management and .social-media-marketing into .gogo
  /* .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -166,6 +166,7 @@ h3 {
     color: #ffffff;
 }  */
 
+/* swaped class name to gogo */
 .gogo img {
     max-height: 200px;
 }
@@ -182,6 +183,8 @@ h3 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* to save repetitveness i used gogo as my class */
 /*
 .online-reputation-management h2 {
     margin-bottom: 20px;
